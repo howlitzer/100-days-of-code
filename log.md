@@ -7,3 +7,5 @@
 
 **Thoughts:** I found myself struggling with the bonfire challenges on FCC in the basic algorithm section so I have decided to take a step back and relearn my JS, I started readin the YDKJS books and I am about half way through the 2nd one, Scopes and Closures
 
+Ive kept my log from the previous days on twitter so be sure to check out where I started, and follow along to see where im going 
+https://twitter.com/TheHowlitzer
